@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-06T06:50:21.824Z",
+  "updatedAt": "2026-09-06T18:14:12.608Z",
   "problems": [
     {
       "frontendId": "113",
@@ -23,6 +23,26 @@
           "path": "0113-path-sum-ii/0113-path-sum-ii.py",
           "sha": "751e2c88245baed781c63ff5fd42ab69da6374dd",
           "lastSyncedAt": "2026-09-06T06:50:21.824Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0114-flatten-binary-tree-to-linked-list.py",
+          "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.py",
+          "sha": "c38d6ff71dd4a5cf65c996b19f4923e2a6b3537f",
+          "lastSyncedAt": "2026-09-06T18:14:12.608Z"
         }
       ]
     },
