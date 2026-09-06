@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking"
+  },
+  "updatedAt": "2026-09-06T06:50:21.824Z",
+  "problems": [
+    {
+      "frontendId": "113",
+      "title": "Path Sum II",
+      "slug": "path-sum-ii",
+      "problemName": "0113-path-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-sum-ii/",
+      "folderPath": "0113-path-sum-ii/",
+      "readmePath": "0113-path-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0113-path-sum-ii.py",
+          "path": "0113-path-sum-ii/0113-path-sum-ii.py",
+          "sha": "751e2c88245baed781c63ff5fd42ab69da6374dd",
+          "lastSyncedAt": "2026-09-06T06:50:21.824Z"
+        }
+      ]
+    }
+  ]
+}
