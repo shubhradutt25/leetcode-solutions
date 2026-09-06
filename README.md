@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 1 | 0 | 0 |
+| 2 | 1 | 1 | 0 |
 
 ## Activity
 
@@ -15,23 +15,25 @@ Contains topicwise list of solved problems.
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-06 | 1 |
+| 2026-09-06 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 1 | 100% |
-| Depth-First Search | 1 | 100% |
-| Stack | 1 | 100% |
-| Tree | 1 | 100% |
+| Binary Tree | 2 | 100% |
+| Depth-First Search | 2 | 100% |
+| Tree | 2 | 100% |
+| Backtracking | 1 | 50% |
+| Stack | 1 | 50% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Binary Tree](Topics/binary-tree/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 1 |
+| [Backtracking](Topics/backtracking/) | 1 |
+| [Binary Tree](Topics/binary-tree/) | 2 |
+| [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Stack](Topics/stack/) | 1 |
-| [Tree](Topics/tree/) | 1 |
+| [Tree](Topics/tree/) | 2 |
 <!---LeetHub Summary End-->
