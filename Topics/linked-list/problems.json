@@ -4,6 +4,27 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-06T18:13:39.559Z",
-  "problems": []
+  "updatedAt": "2026-09-06T18:14:12.608Z",
+  "problems": [
+    {
+      "frontendId": "114",
+      "title": "Flatten Binary Tree to Linked List",
+      "slug": "flatten-binary-tree-to-linked-list",
+      "problemName": "0114-flatten-binary-tree-to-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "folderPath": "0114-flatten-binary-tree-to-linked-list/",
+      "readmePath": "0114-flatten-binary-tree-to-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0114-flatten-binary-tree-to-linked-list.py",
+          "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.py",
+          "sha": "c38d6ff71dd4a5cf65c996b19f4923e2a6b3537f",
+          "lastSyncedAt": "2026-09-06T18:14:12.608Z"
+        }
+      ]
+    }
+  ]
 }
