@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-07T15:29:04.274Z",
+  "updatedAt": "2026-09-07T15:30:35.413Z",
   "problems": [
     {
       "frontendId": "119",
@@ -23,6 +23,26 @@
           "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.py",
           "sha": "0c4b90d04f4a6fd137620921561da13d24ab2170",
           "lastSyncedAt": "2026-09-07T15:29:04.274Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "120",
+      "title": "Triangle",
+      "slug": "triangle",
+      "problemName": "0120-triangle",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/triangle/",
+      "folderPath": "0120-triangle/",
+      "readmePath": "0120-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0120-triangle.py",
+          "path": "0120-triangle/0120-triangle.py",
+          "sha": "43999bbc7fd0184d6123c1fdb3f9d8b0d63b833f",
+          "lastSyncedAt": "2026-09-07T15:30:35.413Z"
         }
       ]
     }
