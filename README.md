@@ -5,31 +5,34 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 5 | 2 | 3 | 0 |
+| 6 | 3 | 3 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 2 |
+| 1 days | 2 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-09-06 | 3 |
 | 2026-09-07 | 2 |
+| 2026-09-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 3 | 60% |
-| Depth-First Search | 3 | 60% |
-| Tree | 3 | 60% |
-| Array | 2 | 40% |
-| Dynamic Programming | 2 | 40% |
-| Stack | 2 | 40% |
-| Backtracking | 1 | 20% |
-| Linked List | 1 | 20% |
+| Binary Tree | 3 | 50% |
+| Depth-First Search | 3 | 50% |
+| Tree | 3 | 50% |
+| Array | 2 | 33% |
+| Dynamic Programming | 2 | 33% |
+| Stack | 2 | 33% |
+| Backtracking | 1 | 17% |
+| Linked List | 1 | 17% |
+| String | 1 | 17% |
+| Two Pointers | 1 | 17% |
 
 ## Topics
 
@@ -42,5 +45,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 1 |
 | [Tree](Topics/tree/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
