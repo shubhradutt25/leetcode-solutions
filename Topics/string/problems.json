@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-08T18:33:35.189Z",
+  "problems": [
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0125-valid-palindrome.py",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.py",
+          "sha": "c9938a291d26ef4c5206ad97c9c317ae1e7c98d6",
+          "lastSyncedAt": "2026-09-08T18:33:35.189Z"
+        }
+      ]
+    }
+  ]
+}
