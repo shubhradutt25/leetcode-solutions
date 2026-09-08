@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 6 | 3 | 3 | 0 |
+| 7 | 3 | 4 | 0 |
 
 ## Activity
 
@@ -17,22 +17,22 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | 2026-09-06 | 3 |
 | 2026-09-07 | 2 |
-| 2026-09-09 | 1 |
+| 2026-09-09 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 3 | 50% |
-| Depth-First Search | 3 | 50% |
-| Tree | 3 | 50% |
-| Array | 2 | 33% |
-| Dynamic Programming | 2 | 33% |
-| Stack | 2 | 33% |
-| Backtracking | 1 | 17% |
-| Linked List | 1 | 17% |
-| String | 1 | 17% |
-| Two Pointers | 1 | 17% |
+| Binary Tree | 4 | 57% |
+| Depth-First Search | 4 | 57% |
+| Tree | 4 | 57% |
+| Array | 2 | 29% |
+| Dynamic Programming | 2 | 29% |
+| Stack | 2 | 29% |
+| Backtracking | 1 | 14% |
+| Linked List | 1 | 14% |
+| String | 1 | 14% |
+| Two Pointers | 1 | 14% |
 
 ## Topics
 
@@ -40,12 +40,13 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 2 |
 | [Backtracking](Topics/backtracking/) | 1 |
-| [Binary Tree](Topics/binary-tree/) | 3 |
-| [Depth-First Search](Topics/depth-first-search/) | 3 |
+| [Binary Tree](Topics/binary-tree/) | 4 |
+| [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Hash Table](Topics/hash-table/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 1 |
-| [Tree](Topics/tree/) | 3 |
+| [Tree](Topics/tree/) | 4 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
