@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-06T18:14:12.608Z",
+  "updatedAt": "2026-09-08T18:38:46.082Z",
   "problems": [
     {
       "frontendId": "113",
@@ -43,6 +43,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.py",
           "sha": "c38d6ff71dd4a5cf65c996b19f4923e2a6b3537f",
           "lastSyncedAt": "2026-09-06T18:14:12.608Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "problemName": "0129-sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+      "folderPath": "0129-sum-root-to-leaf-numbers/",
+      "readmePath": "0129-sum-root-to-leaf-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0129-sum-root-to-leaf-numbers.py",
+          "path": "0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.py",
+          "sha": "9c8eb23b3517b2e302af8cf81b13b6b2e7377c20",
+          "lastSyncedAt": "2026-09-08T18:38:46.082Z"
         }
       ]
     },
