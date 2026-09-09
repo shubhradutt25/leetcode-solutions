@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 7 | 3 | 4 | 0 |
+| 8 | 4 | 4 | 0 |
 
 ## Activity
 
@@ -17,22 +17,22 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | 2026-09-06 | 3 |
 | 2026-09-07 | 2 |
-| 2026-09-09 | 2 |
+| 2026-09-09 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 4 | 57% |
-| Depth-First Search | 4 | 57% |
-| Tree | 4 | 57% |
-| Array | 2 | 29% |
-| Dynamic Programming | 2 | 29% |
-| Stack | 2 | 29% |
-| Backtracking | 1 | 14% |
-| Linked List | 1 | 14% |
-| String | 1 | 14% |
-| Two Pointers | 1 | 14% |
+| Binary Tree | 4 | 50% |
+| Depth-First Search | 4 | 50% |
+| Tree | 4 | 50% |
+| Array | 2 | 25% |
+| Dynamic Programming | 2 | 25% |
+| Stack | 2 | 25% |
+| Backtracking | 1 | 13% |
+| Linked List | 1 | 13% |
+| Shell | 1 | 13% |
+| String | 1 | 13% |
 
 ## Topics
 
@@ -45,6 +45,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Hash Table](Topics/hash-table/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
+| [Shell](Topics/shell/) | 1 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 1 |
 | [Tree](Topics/tree/) | 4 |
