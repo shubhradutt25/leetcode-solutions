@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 9 | 5 | 4 | 0 |
+| 10 | 6 | 4 | 0 |
 
 ## Activity
 
@@ -18,22 +18,22 @@ Contains topicwise list of solved problems.
 | 2026-09-06 | 3 |
 | 2026-09-07 | 2 |
 | 2026-09-09 | 3 |
-| 2026-09-14 | 1 |
+| 2026-09-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 4 | 44% |
-| Depth-First Search | 4 | 44% |
-| Tree | 4 | 44% |
-| Stack | 3 | 33% |
-| Array | 2 | 22% |
-| Dynamic Programming | 2 | 22% |
-| String | 2 | 22% |
-| Backtracking | 1 | 11% |
-| Bracket Sequences | 1 | 11% |
-| Linked List | 1 | 11% |
+| Binary Tree | 4 | 40% |
+| Depth-First Search | 4 | 40% |
+| Tree | 4 | 40% |
+| Stack | 3 | 30% |
+| Array | 2 | 20% |
+| Dynamic Programming | 2 | 20% |
+| String | 2 | 20% |
+| Backtracking | 1 | 10% |
+| Bracket Sequences | 1 | 10% |
+| Geometry | 1 | 10% |
 
 ## Topics
 
@@ -45,8 +45,10 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Geometry](Topics/geometry/) | 1 |
 | [Hash Table](Topics/hash-table/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
+| [Math](Topics/math/) | 1 |
 | [Shell](Topics/shell/) | 1 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 2 |
