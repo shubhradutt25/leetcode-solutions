@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-06T18:14:12.608Z",
+  "updatedAt": "2026-09-19T20:49:36.218Z",
   "problems": [
     {
       "frontendId": "114",
@@ -23,6 +23,26 @@
           "path": "0114-flatten-binary-tree-to-linked-list/0114-flatten-binary-tree-to-linked-list.py",
           "sha": "c38d6ff71dd4a5cf65c996b19f4923e2a6b3537f",
           "lastSyncedAt": "2026-09-06T18:14:12.608Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0234-palindrome-linked-list.java",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
+          "sha": "768944335cb0ab6347724024672e340df4e5f42d",
+          "lastSyncedAt": "2026-09-19T20:49:36.218Z"
         }
       ]
     }
