@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-16T14:37:33.560Z",
+  "updatedAt": "2026-09-21T18:26:23.754Z",
   "problems": [
     {
       "frontendId": "119",
@@ -43,6 +43,26 @@
           "path": "0120-triangle/0120-triangle.py",
           "sha": "43999bbc7fd0184d6123c1fdb3f9d8b0d63b833f",
           "lastSyncedAt": "2026-09-07T15:30:35.413Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "228",
+      "title": "Summary Ranges",
+      "slug": "summary-ranges",
+      "problemName": "0228-summary-ranges",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
+      "folderPath": "0228-summary-ranges/",
+      "readmePath": "0228-summary-ranges/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0228-summary-ranges.java",
+          "path": "0228-summary-ranges/0228-summary-ranges.java",
+          "sha": "4b5689cdb460ca6630d7efecb077898002e27cd0",
+          "lastSyncedAt": "2026-09-21T18:26:23.754Z"
         }
       ]
     },
