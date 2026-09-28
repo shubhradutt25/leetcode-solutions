@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-19T20:49:36.218Z",
+  "updatedAt": "2026-09-28T21:13:02.887Z",
   "problems": [
     {
       "frontendId": "125",
@@ -43,6 +43,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
           "sha": "768944335cb0ab6347724024672e340df4e5f42d",
           "lastSyncedAt": "2026-09-19T20:49:36.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0349-intersection-of-two-arrays.py",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "sha": "b92e691c7a405897bfdf0460223f2361dc6638a4",
+          "lastSyncedAt": "2026-09-28T21:13:02.887Z"
         }
       ]
     }
