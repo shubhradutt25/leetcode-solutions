@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T21:13:02.887Z",
+  "updatedAt": "2026-10-01T18:12:15.046Z",
   "problems": [
     {
       "frontendId": "1",
@@ -103,6 +103,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
           "sha": "b92e691c7a405897bfdf0460223f2361dc6638a4",
           "lastSyncedAt": "2026-09-28T21:13:02.887Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "problemName": "0414-third-maximum-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/third-maximum-number/",
+      "folderPath": "0414-third-maximum-number/",
+      "readmePath": "0414-third-maximum-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0414-third-maximum-number.py",
+          "path": "0414-third-maximum-number/0414-third-maximum-number.py",
+          "sha": "089c212d12f1202dd381649307ace4e7a6829a8e",
+          "lastSyncedAt": "2026-10-01T18:12:15.046Z"
         }
       ]
     },
